@@ -1,11 +1,12 @@
 name: Generate Snake Animation 🐍
 
 on:
-  # run daily at 00:00 UTC (you can change if needed)
   schedule:
     - cron: "0 0 * * *"
-  # allows manual run
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
