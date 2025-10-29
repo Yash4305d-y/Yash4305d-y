@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi 👋! I'm <span style="color:#58a6ff;">Yash Vinay Kalyani ⚡</span></h2>
-  <img src="https://i.imgflip.com/65efzo.gif" height="100" alt="hi gif" />
+  <img src="https://i.imgflip.com/65efzo.gif" height="120" alt="hi gif" />
 </div>
 
 ---
@@ -18,14 +18,14 @@ I enjoy taking up new challenges, learning from real-world projects, and connect
 ---
 
 ## 🧠 Tech Skills  
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" title="C Language"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" title="Python"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" title="HTML5"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" title="CSS3"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" title="C Language" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" title="Python" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" title="HTML5" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" title="CSS3" />
 </div>
 
 ---
@@ -44,12 +44,12 @@ I enjoy taking up new challenges, learning from real-world projects, and connect
 ---
 
 ## 📬 Connect With Me  
-<div align="left">
+<div align="center">
   <a href="mailto:howbow4305@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo"  />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
   </a>
   <a href="https://www.linkedin.com/in/yash-vinay-kalyani-a6799a382" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
 
@@ -57,19 +57,18 @@ I enjoy taking up new challenges, learning from real-world projects, and connect
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash4305d-y&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yash4305d-y&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash4305d-y&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash4305d-y&layout=compact&langs_count=4&theme=dracula&hide_border=false" height="160" alt="Top languages" />
 </div>
 
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbXVvcXJvYjBmNGx0eWc3dmNjbmZ0MG92bW43OG96Y2M0dnM4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="180" /></td>
-      <td><img src="https://raw.githubusercontent.com/Yash4305d-y/Yash4305d-y/output/snake.svg" alt="Snake animation" height="180" /></td>
-    </tr>
-  </table>
+## 🧩 Fun Zone  
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbXVvcXJvYjBmNGx0eWc3dmNjbmZ0MG92bW43OG96Y2M0dnM4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="180" alt="Coding gif" />
+  <img src="https://raw.githubusercontent.com/Yash4305d-y/Yash4305d-y/output/snake.svg" height="180" alt="Snake animation" />
 </div>
+
+---
 
 <br clear="both">
