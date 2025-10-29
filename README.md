@@ -67,10 +67,19 @@ I enjoy taking up new challenges, learning from real-world projects, and connect
 ---
 
 ## 🧩 Fun Zone  
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbXVvcXJvYjBmNGx0eWc3dmNjbmZ0MG92bW43OG96Y2M0dnM4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="180" alt="Coding gif" />
-  <img src="https://raw.githubusercontent.com/Yash4305d-y/Yash4305d-y/output/snake.svg" height="180" alt="Snake animation" />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbXVvcXJvYjBmNGx0eWc3dmNjbmZ0MG92bW43OG96Y2M0dnM4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="180" alt="Coding gif" />
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/Yash4305d-y/Yash4305d-y/output/snake.svg" height="180" alt="Snake animation" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
