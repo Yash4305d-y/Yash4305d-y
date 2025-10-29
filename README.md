@@ -65,7 +65,7 @@ I enjoy taking up new challenges, learning from real-world projects, and connect
 
 <div align="center">
   <img align="left" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbXVvcXJvYjBmNGx0eWc3dmNjbmZ0MG92bW43OG96Y2M0dnM4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-  <img align="right" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" height="180" />
+  <img align="right" src="https://raw.githubusercontent.com/Yash4305d-y/Yash4305d-y/output/snake.svg" alt="Snake animation" height="180" />
 </div>
 
 <br clear="both">
