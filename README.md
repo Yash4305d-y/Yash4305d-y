@@ -34,7 +34,7 @@ I enjoy taking up new challenges, learning from real-world projects, and connect
 
 ## 🏆 Achievements  
 - 🥇 Qualified **Smart India Hackathon (Internal Round)** – *September 2025*  
-- ☁️ Completed **Google Cloud Study Jams – October 2025**
+- ☁️ Completed **Google Cloud Study Jams** – *October 2025*
 
 ---
 
