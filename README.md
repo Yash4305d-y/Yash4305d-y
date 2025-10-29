@@ -15,7 +15,7 @@ I enjoy taking up new challenges, learning from real-world projects, and connect
 
 🚀 **Currently focused on:** improving my coding skills and exploring practical applications of what I learn every day.
 
-🌐 **Contact:-** howbow4305@gmail.com 
+🌐 **Contact:-** [howbow4305@gmail.com](mailto:howbow4305@gmail.com) 
 
 ---
 
@@ -33,7 +33,8 @@ I enjoy taking up new challenges, learning from real-world projects, and connect
 ---
 
 ## 🏆 Achievements  
-- 🥇 Qualified **Smart India Hackathon (Internal Round)** – *September 2025*
+- 🥇 Qualified **Smart India Hackathon (Internal Round)** – *September 2025*  
+- ☁️ Completed **Google Cloud Study Jams – October 2025**
 
 ---
 
