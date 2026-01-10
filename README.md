@@ -1,6 +1,5 @@
 <div align="center">
 
-  <!-- Animated typing intro -->
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Yash+Vinay+Kalyani+%E2%9A%A1;CSE+Student+%7C+Future+Software+Engineer;Learning+Python+%26+Building+Cool+Stuff;AI+%7C+Cloud+%7C+Dev+Energy+ON+%F0%9F%9A%80" alt="Typing SVG" />
 
   <h2>Hi 👋! I'm <span style="color:#58a6ff;">Yash Vinay Kalyani ⚡</span></h2>
@@ -8,7 +7,6 @@
 
 </div>
 
-<!-- Glowing line animation -->
 <p align="center">
   <img src="https://github.com/Arsenic-ATG/animated-gifs/blob/main/assets/line-glow.gif?raw=true" width="70%" alt="glowing line animation"/>
 </p>
@@ -31,7 +29,6 @@ I enjoy taking up new challenges, learning from real-world projects, and connect
 
 ## 🧠 Tech Skills  
 
-<!-- glowing card style -->
 <div align="center">
 
   <img src="https://github.com/rodrigograca31/rodrigograca31/raw/master/assets/skills.gif" height="30" alt="skills glow"/>
@@ -85,15 +82,14 @@ I enjoy taking up new challenges, learning from real-world projects, and connect
 
 <div align="center">
 
-  <!-- main stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash4305d-y&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="160" alt="GitHub stats" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Yash4305d-y&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="GitHub streak" />
+  </a>
 
-  <!-- top langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash4305d-y&layout=compact&langs_count=4&theme=dracula&hide_border=false" height="160" alt="Top languages" />
-
-  <!-- 🔥 Streak animation -->
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yash4305d-y&theme=dracula&hide_border=false" height="180" alt="GitHub streak" />
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash4305d-y&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="140" alt="Top languages" />
 
 </div>
 
@@ -105,22 +101,17 @@ I enjoy taking up new challenges, learning from real-world projects, and connect
   <table>
     <tr>
       <td>
-        <!-- coding anime gif -->
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbXVvcXJvYjBmNGx0eWc3dmNjbmZ0MG92bW43OG96Y2M0dnM4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="180" alt="Coding gif" />
       </td>
       <td>
-        <!-- snake animation -->
         <img src="https://raw.githubusercontent.com/Yash4305d-y/Yash4305d-y/output/snake.svg" height="180" alt="Snake animation" />
       </td>
     </tr>
   </table>
 
-  <!-- profile views counter (animated ticking number) -->
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Yash4305d-y&style=for-the-badge&label=Profile%20Views" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Yash4305d-y&style=for-the-badge&label=Profile%20Views&color=blueviolet" alt="profile views" />
 
 </div>
-
----
 
 <br clear="both">
