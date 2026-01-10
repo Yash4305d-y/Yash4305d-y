@@ -8,12 +8,10 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/Arsenic-ATG/animated-gifs/blob/main/assets/line-glow.gif?raw=true" width="70%" alt="glowing line animation"/>
+  <img src="https://github.com/Arsenic-ATG/animated-gifs/blob/main/assets/line-glow.gif?raw=true" width="100%" alt="glowing line animation"/>
 </p>
 
----
-
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 I’m <b>Yash Vinay Kalyani</b>, a <b>Computer Science Engineering student</b> passionate about learning programming and building a strong foundation in technology.  
 Currently exploring <b>C</b> and <b>Python</b>, I’m continuously improving my <b>problem-solving skills</b> and understanding of how software shapes the world around us.  
 
@@ -25,47 +23,59 @@ I enjoy taking up new challenges, learning from real-world projects, and connect
 
 🌐 <b>Contact:-</b> [howbow4305@gmail.com](mailto:howbow4305@gmail.com) 
 
----
+<p align="center">
+  <img src="https://github.com/Arsenic-ATG/animated-gifs/blob/main/assets/line-glow.gif?raw=true" width="100%" alt="glowing line animation"/>
+</p>
 
-## 🧠 Tech Skills  
+## 🧠 Tech Skills
 
 <div align="center">
 
   <img src="https://github.com/rodrigograca31/rodrigograca31/raw/master/assets/skills.gif" height="30" alt="skills glow"/>
 
-  <br/>
+  <br/><br/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" title="C Language" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" title="Python" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" title="HTML5" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" title="CSS3" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" title="Git" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="40" alt="GitHub" title="GitHub"/>
 
 </div>
 
----
+<p align="center">
+  <img src="https://github.com/Arsenic-ATG/animated-gifs/blob/main/assets/line-glow.gif?raw=true" width="100%" alt="glowing line animation"/>
+</p>
 
-## 🏆 Achievements  
+## 🏆 Achievements
 - 🥇 Qualified <b>Smart India Hackathon (Internal Round)</b> – <i>September 2025</i>  
 - ☁️ Completed <b>Google Cloud Study Jams</b> – <i>October 2025</i>
 
----
+<p align="center">
+  <img src="https://github.com/Arsenic-ATG/animated-gifs/blob/main/assets/line-glow.gif?raw=true" width="100%" alt="glowing line animation"/>
+</p>
 
-## 💡 Interests  
+## 💡 Interests
 - 🤖 Artificial Intelligence (AI) & Machine Learning (ML)  
 - 📊 Data Science  
 - 💻 Competitive Programming  
 - 🌐 Open Source Contribution  
 
----
+<p align="center">
+  <img src="https://github.com/Arsenic-ATG/animated-gifs/blob/main/assets/line-glow.gif?raw=true" width="100%" alt="glowing line animation"/>
+</p>
 
-## 📬 Connect With Me  
+## 📬 Connect With Me
 
 <div align="center">
   <a href="mailto:howbow4305@gmail.com" target="_blank">
@@ -74,11 +84,16 @@ I enjoy taking up new challenges, learning from real-world projects, and connect
   <a href="https://www.linkedin.com/in/yash-vinay-kalyani-a6799a382" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+  <a href="https://www.instagram.com/glory_22ee?igsh=NXl0Mjg5YmwzcDZ6" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
 </div>
 
----
+<p align="center">
+  <img src="https://github.com/Arsenic-ATG/animated-gifs/blob/main/assets/line-glow.gif?raw=true" width="100%" alt="glowing line animation"/>
+</p>
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -93,9 +108,11 @@ I enjoy taking up new challenges, learning from real-world projects, and connect
 
 </div>
 
----
+<p align="center">
+  <img src="https://github.com/Arsenic-ATG/animated-gifs/blob/main/assets/line-glow.gif?raw=true" width="100%" alt="glowing line animation"/>
+</p>
 
-## 🧩 Fun Zone  
+## 🧩 Fun Zone
 
 <div align="center">
   <table>
