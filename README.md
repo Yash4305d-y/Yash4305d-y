@@ -27,7 +27,7 @@
   <img src="https://github.com/Arsenic-ATG/animated-gifs/blob/main/assets/line-glow.gif?raw=true" width="100%" alt="glowing line animation"/>
 </p>
 
-<h2 align="center">🧠 Tech Skills</h2>
+<h2 align="center">🧠 Tech Stack</h2>
 <div align="center">
   <img src="https://github.com/rodrigograca31/rodrigograca31/raw/master/assets/skills.gif" height="30" alt="skills glow"/>
   <br/><br/>
@@ -42,6 +42,12 @@
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas" title="Pandas"/>
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" alt="PyTorch" title="PyTorch"/>
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="TensorFlow" title="TensorFlow"/>
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5"/>
@@ -64,7 +70,8 @@
 <h2 align="center">🏆 Achievements</h2>
 <div align="center">
   🥇 Qualified <b>Smart India Hackathon (Internal Round)</b> – <i>September 2025</i><br/>
-  ☁️ Completed <b>Google Cloud Study Jams</b> – <i>October 2025</i>
+  ☁️ Completed <b>Google Cloud Study Jams</b> – <i>October 2025</i><br/>
+  🚀 Semi Finalist of <b>HackXsprint Hackathon</b> – <i>January 2026</i> (College Level)
 </div>
 
 <p align="center">
