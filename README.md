@@ -71,7 +71,7 @@
 <div align="center">
   🥇 Qualified <b>Smart India Hackathon (Internal Round)</b> – <i>September 2025</i><br/>
   ☁️ Completed <b>Google Cloud Study Jams</b> – <i>October 2025</i><br/>
-  🚀 Semi Finalist of <b>HackXsprint Hackathon</b> – <i>January 2026</i> (College Level)
+  🚀 Finalist of <b>HackXsprint Hackathon</b> – <i>January 2026</i> (College Level)
 </div>
 
 <p align="center">
