@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" alt="Matplotlib" title="Matplotlib"/>
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/seaborn" height="45" alt="Seaborn" title="Seaborn"/>
+  <img src="https://img.shields.io/badge/Seaborn-%234C72B0?style=for-the-badge&logoColor=white" height="38" alt="Seaborn" title="Seaborn"/>
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" title="HTML5"/>
