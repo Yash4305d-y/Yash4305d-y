@@ -108,15 +108,17 @@
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash4305d-y&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash4305d-y&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117" height="140" alt="Top languages" />
-</div>
-
 <p align="center">
-  <img src="https://github.com/Arsenic-ATG/animated-gifs/blob/main/assets/line-glow.gif?raw=true" width="100%" alt="glowing line animation"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yash4305d-y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yash4305d-y's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Yash4305d-y&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Yash4305d-y's GitHub Streak" width="49%" />
 </p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Yash4305d-y&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&radius=10" alt="Yash4305d-y's Activity Graph" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
 
 <h2 align="center">🧩 Fun Zone</h2>
 <div align="center">
@@ -131,7 +133,7 @@
     </tr>
   </table>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Yash4305d-y&style=for-the-badge&label=Profile%20Views&color=blueviolet" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Yash4305d-y&style=for-the-badge&label=Profile%20Views&color=blueviolet&v=1" alt="profile views" />
 </div>
 
 <br />
