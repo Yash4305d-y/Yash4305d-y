@@ -135,9 +135,3 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Yash4305d-y&style=for-the-badge&label=Profile%20Views&color=blueviolet&v=1" alt="profile views" />
 </div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="footer-wave"/>
-</div>
