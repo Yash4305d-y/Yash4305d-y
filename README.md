@@ -28,8 +28,6 @@
 
 </div>
 
-</div>
-
 <p align="center">
   <img src="https://github.com/Arsenic-ATG/animated-gifs/blob/main/assets/line-glow.gif?raw=true" width="100%" alt="glowing line animation"/>
 </p>
@@ -123,19 +121,19 @@
 <div align="center">
 
 <a href="mailto:howbow4305@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
 </a>
-
-<a href="https://www.linkedin.com/in/yash-vinay-kalyani-a6799a382">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img width="12"/>
+<a href="https://www.linkedin.com/in/yash-vinay-kalyani-a6799a382" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>
-
-<a href="https://github.com/Yash4305d-y">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img width="12"/>
+<a href="https://yashkalyani.vercel.app/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Portfolio"/>
 </a>
-
-<a href="https://www.instagram.com/glory_22ee?igsh=NXl0Mjg5YmwzcDZ6">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img width="12"/>
+<a href="https://www.instagram.com/glory_22ee?igsh=NXl0Mjg5YmwzcDZ6" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/>
 </a>
 
 </div>
@@ -144,37 +142,18 @@
   <img src="https://github.com/Arsenic-ATG/animated-gifs/blob/main/assets/line-glow.gif?raw=true" width="100%" alt="glowing line animation"/>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yash4305d-y&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-
-<img src="https://streak-stats.demolab.com/?user=Yash4305d-y&theme=tokyonight&hide_border=true" width="49%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash4305d-y&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true"/>
-</p>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-</div>
-
-<h2 align="center">🧩 Fun Zone</h2>
+<h2 align="center">🐍 Activity & Contributions</h2>
 
 <div align="center">
 
 <table>
 <tr>
-
-<td>
+<td align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxvbXVvcXJvYjBmNGx0eWc3dmNjbmZ0MG92bW43OG96Y2M0dnM4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="180"/>
 </td>
-
-<td>
-<img src="https://raw.githubusercontent.com/Yash4305d-y/Yash4305d-y/output/snake.svg" height="180"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Yash4305d-y/Yash4305d-y/output/snake.svg" height="180" alt="Contribution Snake"/>
 </td>
-
 </tr>
 </table>
 
