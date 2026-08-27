@@ -18,7 +18,9 @@ jobs:
           user: Yash4305d-y
           template: classic
           base: ""
-          filename: output/activity-graph.svg
+          filename: activity-graph.svg
+          output_action: commit
+          committer_branch: output
           config_timezone: Asia/Kolkata
           plugin_activity: yes
           plugin_activity_limit: 5
