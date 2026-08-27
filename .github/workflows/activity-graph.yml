@@ -8,29 +8,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Generate Activity Graph
-        uses: vn7n/activity-graph-action@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate Tokyo Night Activity Graph
+        uses: lowlighter/metrics@latest
         with:
-          CUSTOM_TITLE: "Activity Graph"
-          BG_COLOR: "0D1117"
-          TITLE_COLOR: "58A6FF"
-          LINE: "58A6FF"
-          POINT: "ffffff"
-          AREA: "true"
-          HIDE_BORDER: "true"
-          OUTPUT: "output/activity-graph.svg"
-
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: output
-          keep_files: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Yash4305d-y
+          template: classic
+          base: ""
+          filename: output/activity-graph.svg
+          config_timezone: Asia/Kolkata
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_style: compact
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
