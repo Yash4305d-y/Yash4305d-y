@@ -144,6 +144,10 @@
 
 <h2 align="center">🐍 Activity & Contributions</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yash4305d-y/Yash4305d-y/output/activity-graph.svg" alt="Activity Graph"/>
+</p>
+
 <div align="center">
 
 <table>
