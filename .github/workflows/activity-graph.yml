@@ -12,19 +12,22 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Activity Graph SVG
-        uses: ashutosh00710/github-readme-activity-graph@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          USERNAME: Yash4305d-y
-          BG_COLOR: 0D1117
-          COLOR: 58A6FF
-          LINE: 58A6FF
-          POINT: ffffff
-          AREA: true
-          HIDE_BORDER: true
-          OUTPUT_PATH: ./output/activity-graph.svg
+          node-version: 20
+
+      - name: Clone and Generate Activity Graph
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p output
+          git clone https://github.com/ashutosh00710/github-readme-activity-graph.git temp-graph
+          cd temp-graph
+          npm install
+          node src/index.js --username=Yash4305d-y --bg_color=0D1117 --color=58A6FF --line=58A6FF --point=ffffff --area=true --hide_border=true --output=../output/activity-graph.svg
+          cd ..
+          rm -rf temp-graph
 
       - name: Push SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
