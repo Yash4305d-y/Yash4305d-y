@@ -145,7 +145,7 @@
 <h2 align="center">🐍 Activity & Contributions</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yash4305d-y/Yash4305d-y/output/activity-graph.svg?v=2" alt="Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/Yash4305d-y/Yash4305d-y/output/activity-graph.svg?v=3" alt="Activity Graph"/>
 </p>
 
 <div align="center">
