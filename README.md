@@ -78,15 +78,6 @@
   <img src="https://github.com/Arsenic-ATG/animated-gifs/blob/main/assets/line-glow.gif?raw=true" width="100%" alt="glowing line animation"/>
 </p>
 
-<h2 align="center">🏆 Achievements</h2>
-
-<div align="center">
-
-🥇 Qualified <b>Smart India Hackathon (Internal Round)</b> – <i>September 2025</i>
-
-☁️ Completed <b>Google Cloud Study Jams</b> – <i>October 2025</i>
-
-🚀 Finalist of <b>HackXsprint Hackathon</b> – <i>January 2026</i> (College Level)
 
 </div>
 
@@ -94,27 +85,9 @@
   <img src="https://github.com/Arsenic-ATG/animated-gifs/blob/main/assets/line-glow.gif?raw=true" width="100%" alt="glowing line animation"/>
 </p>
 
-<h2 align="center">💡 Interests</h2>
 
-<div align="center">
 
-🤖 Artificial Intelligence & Machine Learning
 
-📊 Data Science
-
-💻 Software Development
-
-🧩 Problem Solving & Competitive Programming
-
-☁️ Cloud Computing
-
-🌍 Open Source Contribution
-
-</div>
-
-<p align="center">
-  <img src="https://github.com/Arsenic-ATG/animated-gifs/blob/main/assets/line-glow.gif?raw=true" width="100%" alt="glowing line animation"/>
-</p>
 
 <h2 align="center">📬 Connect With Me</h2>
 
