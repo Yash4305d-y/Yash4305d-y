@@ -102,7 +102,7 @@
 </a>
 <img width="12"/>
 <a href="https://yashkalyani.vercel.app/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Portfolio"/>
+  <img src="apple-touch-icon.png" height="45" alt="Portfolio"/>
 </a>
 <img width="12"/>
 <a href="https://www.instagram.com/glory_22ee?igsh=NXl0Mjg5YmwzcDZ6" target="_blank">
